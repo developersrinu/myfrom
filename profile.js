@@ -19,6 +19,6 @@ document.getElementById("logoutButton").addEventListener("click", function () {
       <p><strong class = 'p2'>Email:</strong> ${user.email}</p>
       <p><strong class = 'p3'> Access Token:</strong> ${user.accessToken}</p>
     `;
-    
+
   }
   
